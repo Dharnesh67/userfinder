@@ -1,0 +1,169 @@
+2025-02-01 01:02:52,644 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-02-01 01:02:53,087 - urllib3.connectionpool - DEBUG - https://raw.githubusercontent.com:443 "GET /WebBreacher/WhatsMyName/main/wmn-data.json HTTP/1.1" 200 42295
+2025-02-01 01:02:53,270 - asyncio - DEBUG - Using selector: SelectSelector
+2025-02-01 01:02:54,836 - root - ERROR - Error in Async HTTP Request [GET] https://ask.fm/:abhay | Cannot connect to host ask.fm:443 ssl:False [DNS server returned answer with no data]
+2025-02-01 01:02:55,423 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.bdsmlr.com | https://:abhay.bdsmlr.com
+2025-02-01 01:02:57,291 - root - ERROR - Error in Async HTTP Request [GET] http://:abhay.blogspot.com | http://:abhay.blogspot.com
+2025-02-01 01:02:58,187 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.booth.pm/ | https://:abhay.booth.pm/
+2025-02-01 01:02:58,698 - root - ERROR - Error in Async HTTP Request [GET] https://www.adultism.com/profile/:abhay | Cannot connect to host www.adultism.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-01 01:02:58,912 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.carbonmade.com/ | https://:abhay.carbonmade.com/
+2025-02-01 01:02:58,918 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.carrd.co | https://:abhay.carrd.co
+2025-02-01 01:02:59,189 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.chatango.com | https://:abhay.chatango.com
+2025-02-01 01:03:01,003 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.crevado.com/ | https://:abhay.crevado.com/
+2025-02-01 01:03:09,677 - root - ERROR - Error in Async HTTP Request [GET] https://friendfinder.com/profile/:abhay | Cannot connect to host friendfinder.com:443 ssl:False [[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1000)]
+2025-02-01 01:03:11,281 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.gumroad.com/ | https://:abhay.gumroad.com/
+2025-02-01 01:03:14,848 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.insanejournal.com/profile | https://:abhay.insanejournal.com/profile
+2025-02-01 01:03:17,213 - root - ERROR - Error in Async HTTP Request [GET] https://www.bigo.tv/user/:abhay | Cannot connect to host www.bigo.tv:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:17,469 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.livejournal.com | https://:abhay.livejournal.com
+2025-02-01 01:03:17,883 - root - ERROR - Error in Async HTTP Request [GET] https://www.babyblog.ru/user/:abhay | Cannot connect to host www.babyblog.ru:443 ssl:False [Connect call failed ('178.248.236.40', 443)]
+2025-02-01 01:03:18,600 - root - ERROR - Error in Async HTTP Request [GET] https://linktr.ee/:abhay | 0, message='', url='https://linktr.ee/:abhay'
+2025-02-01 01:03:18,868 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.medium.com/about | https://:abhay.medium.com/about
+2025-02-01 01:03:20,294 - root - ERROR - Error in Async HTTP Request [GET] https://chaturbate.com/:abhay/ | Cannot connect to host chaturbate.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:20,600 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.myportfolio.com/work | https://:abhay.myportfolio.com/work
+2025-02-01 01:03:20,711 - root - ERROR - Error in Async HTTP Request [GET] https://chomikuj.pl/:abhay/ | Cannot connect to host chomikuj.pl:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:21,106 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.newgrounds.com/ | https://:abhay.newgrounds.com/
+2025-02-01 01:03:21,155 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.www.nn.ru | https://:abhay.www.nn.ru
+2025-02-01 01:03:21,263 - root - ERROR - Error in Async HTTP Request [GET] https://climatejustice.rocks/api/v1/accounts/lookup?acct=:abhay | Cannot connect to host climatejustice.rocks:443 ssl:False [Connect call failed ('146.255.56.83', 443)]
+2025-02-01 01:03:22,055 - root - ERROR - Error in Async HTTP Request [GET] https://ok.ru/:abhay | Cannot connect to host ok.ru:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-01 01:03:22,275 - root - ERROR - Error in Async HTTP Request [GET] https://curiouscat.live/api/v2.1/profile?username=:abhay | Cannot connect to host curiouscat.live:443 ssl:False [Connect call failed ('34.233.171.249', 443)]
+2025-02-01 01:03:24,307 - root - ERROR - Error in Async HTTP Request [GET] https://community.appian.com/members/:abhay | TimeoutError()
+2025-02-01 01:03:24,308 - root - ERROR - Error in Async HTTP Request [GET] https://archiveofourown.org/users/:abhay | TimeoutError()
+2025-02-01 01:03:24,535 - chardet.charsetprober - DEBUG - SHIFT_JIS Japanese prober hit error at byte 377
+2025-02-01 01:03:24,536 - chardet.charsetprober - DEBUG - EUC-JP Japanese prober hit error at byte 377
+2025-02-01 01:03:24,536 - chardet.charsetprober - DEBUG - GB2312 Chinese prober hit error at byte 377
+2025-02-01 01:03:24,536 - chardet.charsetprober - DEBUG - EUC-KR Korean prober hit error at byte 377
+2025-02-01 01:03:24,537 - chardet.charsetprober - DEBUG - CP949 Korean prober hit error at byte 377
+2025-02-01 01:03:24,537 - chardet.charsetprober - DEBUG - Big5 Chinese prober hit error at byte 377
+2025-02-01 01:03:24,537 - chardet.charsetprober - DEBUG - EUC-TW Taiwan prober hit error at byte 377
+2025-02-01 01:03:24,538 - chardet.charsetprober - DEBUG - Johab Korean prober hit error at byte 377
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - windows-1251 Russian confidence = 0.012877541096307624
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - KOI8-R Russian confidence = 0.012877541096307624
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - ISO-8859-5 Russian confidence = 0.0
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - MacCyrillic Russian confidence = 0.02216032038138003
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - IBM866 Russian confidence = 0.0
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - IBM855 Russian confidence = 0.0
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - ISO-8859-7 Greek confidence = 0.020896821123915565
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - windows-1253 Greek confidence = 0.025257914327950205
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - ISO-8859-5 Bulgarian confidence = 0.0062686292664202795
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - windows-1251 Bulgarian confidence = 0.0
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - TIS-620 Thai confidence = 0.01
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - ISO-8859-9 Turkish confidence = 0.40002165578332294
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.0
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.05016178562460793
+2025-02-01 01:03:24,561 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.046094613817207294
+2025-02-01 01:03:24,812 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.reblogme.com | https://:abhay.reblogme.com
+2025-02-01 01:03:25,316 - root - ERROR - Error in Async HTTP Request [GET] https://drum.io/:abhay/ | Cannot connect to host drum.io:443 ssl:False [Connect call failed ('54.157.244.15', 443)]
+2025-02-01 01:03:25,709 - root - ERROR - Error in Async HTTP Request [GET] https://ello.co/:abhay | Cannot connect to host ello.co:443 ssl:False [Connect call failed ('185.53.177.50', 443)]
+2025-02-01 01:03:25,752 - root - ERROR - Error in Async HTTP Request [GET] https://www.eporner.com/profile/:abhay/ | Cannot connect to host www.eporner.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:25,948 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.myshopify.com | https://:abhay.myshopify.com
+2025-02-01 01:03:26,499 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.smugmug.com | https://:abhay.smugmug.com
+2025-02-01 01:03:26,756 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.sofurry.com | https://:abhay.sofurry.com
+2025-02-01 01:03:27,646 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.statuspage.io/api/v2/status.json | https://:abhay.statuspage.io/api/v2/status.json
+2025-02-01 01:03:29,740 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.tumblr.com | https://:abhay.tumblr.com
+2025-02-01 01:03:30,673 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.uwu.ai/ | https://:abhay.uwu.ai/
+2025-02-01 01:03:31,647 - root - ERROR - Error in Async HTTP Request [GET] http://:abhay.vip-blog.com | http://:abhay.vip-blog.com
+2025-02-01 01:03:32,382 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.weebly.com/ | https://:abhay.weebly.com/
+2025-02-01 01:03:32,597 - root - ERROR - Error in Async HTTP Request [GET] https://:abhay.wetransfer.com | https://:abhay.wetransfer.com
+2025-02-01 01:03:33,504 - root - ERROR - Error in Async HTTP Request [GET] http://:abhay.xanga.com/ | http://:abhay.xanga.com/
+2025-02-01 01:03:35,289 - root - ERROR - Error in Async HTTP Request [GET] https://www.imagefap.com/profile/:abhay | Cannot connect to host www.imagefap.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:37,658 - root - ERROR - Error in Async HTTP Request [GET] https://www.kwai.com/@:abhay | Cannot connect to host www.kwai.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:39,122 - root - ERROR - Error in Async HTTP Request [GET] https://teddysgirls.net/models/:abhay | Cannot connect to host teddysgirls.net:443 ssl:False [Connect call failed ('198.199.71.9', 443)]
+2025-02-01 01:03:39,313 - root - ERROR - Error in Async HTTP Request [GET] https://www.game-debate.com/profile/:abhay | TimeoutError()
+2025-02-01 01:03:39,823 - root - ERROR - Error in Async HTTP Request [GET] https://climatejustice.rocks/api/v1/accounts/lookup?acct=:abhay | Cannot connect to host climatejustice.rocks:443 ssl:False [Connect call failed ('146.255.56.83', 443)]
+2025-02-01 01:03:41,298 - root - ERROR - Error in Async HTTP Request [GET] https://www.muyzorras.com/usuarios/:abhay | Cannot connect to host www.muyzorras.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:44,740 - root - ERROR - Error in Async HTTP Request [GET] https://www.pornhub.com/pornstar/:abhay | Cannot connect to host www.pornhub.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:44,762 - root - ERROR - Error in Async HTTP Request [GET] https://www.pornhub.com/users/:abhay | Cannot connect to host www.pornhub.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:46,381 - root - ERROR - Error in Async HTTP Request [GET] https://rutracker.org/forum/profile.php?mode=viewprofile&u=:abhay | Cannot connect to host rutracker.org:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:48,782 - root - ERROR - Error in Async HTTP Request [GET] https://stripchat.com/api/front/users/checkUsername?username=:abhay | Cannot connect to host stripchat.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:48,825 - root - ERROR - Error in Async HTTP Request [GET] https://sukebei.nyaa.si/user/:abhay | Cannot connect to host sukebei.nyaa.si:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:48,886 - root - ERROR - Error in Async HTTP Request [GET] https://www.xvideos.com/profiles/:abhay | Cannot connect to host www.xvideos.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-01 01:03:50,130 - root - ERROR - Error in Async HTTP Request [GET] https://www.tiktok.com/oembed?url=https://www.tiktok.com/@:abhay | Cannot connect to host www.tiktok.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:53,610 - root - ERROR - Error in Async HTTP Request [GET] https://tw.weibo.com/:abhay | Cannot connect to host tw.weibo.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:54,636 - root - ERROR - Error in Async HTTP Request [GET] https://xhamster.com/users/:abhay | Cannot connect to host xhamster.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:54,731 - root - ERROR - Error in Async HTTP Request [GET] https://www.xvideos.com/models/:abhay | Cannot connect to host www.xvideos.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:03:54,731 - root - ERROR - Error in Async HTTP Request [GET] https://www.xnxx.com/mobile/profile/:abhay | Cannot connect to host www.xnxx.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:06:51,635 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-02-01 01:06:51,857 - urllib3.connectionpool - DEBUG - https://raw.githubusercontent.com:443 "GET /WebBreacher/WhatsMyName/main/wmn-data.json HTTP/1.1" 200 42295
+2025-02-01 01:06:52,035 - asyncio - DEBUG - Using selector: SelectSelector
+2025-02-01 01:06:53,560 - root - ERROR - Error in Async HTTP Request [GET] https://ask.fm/abhay | Cannot connect to host ask.fm:443 ssl:False [DNS server returned answer with no data]
+2025-02-01 01:07:09,444 - root - ERROR - Error in Async HTTP Request [GET] https://friendfinder.com/profile/abhay | Cannot connect to host friendfinder.com:443 ssl:False [[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1000)]
+2025-02-01 01:07:13,520 - root - ERROR - Error in Async HTTP Request [GET] https://chaturbate.com/abhay/ | Cannot connect to host chaturbate.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-01 01:07:15,290 - root - ERROR - Error in Async HTTP Request [GET] https://www.babyblog.ru/user/abhay | Cannot connect to host www.babyblog.ru:443 ssl:False [Connect call failed ('178.248.236.40', 443)]
+2025-02-01 01:07:15,519 - root - ERROR - Error in Async HTTP Request [GET] https://www.bigo.tv/user/abhay | Cannot connect to host www.bigo.tv:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:18,567 - root - ERROR - Error in Async HTTP Request [GET] https://www.adultism.com/profile/abhay | Cannot connect to host www.adultism.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:19,714 - root - ERROR - Error in Async HTTP Request [GET] https://climatejustice.rocks/api/v1/accounts/lookup?acct=abhay | Cannot connect to host climatejustice.rocks:443 ssl:False [Connect call failed ('146.255.56.83', 443)]
+2025-02-01 01:07:21,578 - root - ERROR - Error in Async HTTP Request [GET] https://curiouscat.live/api/v2.1/profile?username=abhay | Cannot connect to host curiouscat.live:443 ssl:False [Connect call failed ('34.233.171.249', 443)]
+2025-02-01 01:07:22,300 - root - ERROR - Error in Async HTTP Request [GET] https://archiveofourown.org/users/abhay | TimeoutError()
+2025-02-01 01:07:22,301 - root - ERROR - Error in Async HTTP Request [GET] https://community.appian.com/members/abhay | TimeoutError()
+2025-02-01 01:07:22,427 - root - ERROR - Error in Async HTTP Request [GET] https://www.muyzorras.com/usuarios/abhay | Cannot connect to host www.muyzorras.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-01 01:07:25,082 - root - ERROR - Error in Async HTTP Request [GET] https://drum.io/abhay/ | Cannot connect to host drum.io:443 ssl:False [Connect call failed ('54.157.244.15', 443)]
+2025-02-01 01:07:25,295 - root - ERROR - Error in Async HTTP Request [GET] https://www.pornhub.com/users/abhay | Cannot connect to host www.pornhub.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-01 01:07:25,493 - root - ERROR - Error in Async HTTP Request [GET] https://ello.co/abhay | Cannot connect to host ello.co:443 ssl:False [Connect call failed ('185.53.177.50', 443)]
+2025-02-01 01:07:25,566 - chardet.charsetprober - DEBUG - SHIFT_JIS Japanese prober hit error at byte 377
+2025-02-01 01:07:25,566 - chardet.charsetprober - DEBUG - EUC-JP Japanese prober hit error at byte 377
+2025-02-01 01:07:25,567 - chardet.charsetprober - DEBUG - GB2312 Chinese prober hit error at byte 377
+2025-02-01 01:07:25,567 - chardet.charsetprober - DEBUG - EUC-KR Korean prober hit error at byte 377
+2025-02-01 01:07:25,567 - chardet.charsetprober - DEBUG - CP949 Korean prober hit error at byte 377
+2025-02-01 01:07:25,567 - chardet.charsetprober - DEBUG - Big5 Chinese prober hit error at byte 377
+2025-02-01 01:07:25,568 - chardet.charsetprober - DEBUG - EUC-TW Taiwan prober hit error at byte 377
+2025-02-01 01:07:25,568 - chardet.charsetprober - DEBUG - Johab Korean prober hit error at byte 377
+2025-02-01 01:07:25,596 - chardet.charsetprober - DEBUG - windows-1251 Russian confidence = 0.012877541096307624
+2025-02-01 01:07:25,596 - chardet.charsetprober - DEBUG - KOI8-R Russian confidence = 0.012877541096307624
+2025-02-01 01:07:25,596 - chardet.charsetprober - DEBUG - ISO-8859-5 Russian confidence = 0.0
+2025-02-01 01:07:25,596 - chardet.charsetprober - DEBUG - MacCyrillic Russian confidence = 0.02216032038138003
+2025-02-01 01:07:25,597 - chardet.charsetprober - DEBUG - IBM866 Russian confidence = 0.0
+2025-02-01 01:07:25,597 - chardet.charsetprober - DEBUG - IBM855 Russian confidence = 0.0
+2025-02-01 01:07:25,597 - chardet.charsetprober - DEBUG - ISO-8859-7 Greek confidence = 0.020896821123915565
+2025-02-01 01:07:25,597 - chardet.charsetprober - DEBUG - windows-1253 Greek confidence = 0.025257914327950205
+2025-02-01 01:07:25,597 - chardet.charsetprober - DEBUG - ISO-8859-5 Bulgarian confidence = 0.0062686292664202795
+2025-02-01 01:07:25,597 - chardet.charsetprober - DEBUG - windows-1251 Bulgarian confidence = 0.0
+2025-02-01 01:07:25,597 - chardet.charsetprober - DEBUG - TIS-620 Thai confidence = 0.01
+2025-02-01 01:07:25,597 - chardet.charsetprober - DEBUG - ISO-8859-9 Turkish confidence = 0.40002165578332294
+2025-02-01 01:07:25,597 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.0
+2025-02-01 01:07:25,597 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.05016178562460793
+2025-02-01 01:07:25,597 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.046094613817207294
+2025-02-01 01:07:25,630 - root - ERROR - Error in Async HTTP Request [GET] https://www.eporner.com/profile/abhay/ | Cannot connect to host www.eporner.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:26,310 - root - ERROR - Error in Async HTTP Request [GET] https://pt.bongacams.com/abhay | TimeoutError()
+2025-02-01 01:07:29,298 - root - ERROR - Error in Async HTTP Request [GET] https://chomikuj.pl/abhay/ | TimeoutError()
+2025-02-01 01:07:29,903 - root - ERROR - Error in Async HTTP Request [GET] https://abhay.statuspage.io/api/v2/status.json | Expecting value: line 1 column 1 (char 0)
+2025-02-01 01:07:32,313 - root - ERROR - Error in Async HTTP Request [GET] https://www.pornhub.com/pornstar/abhay | Cannot connect to host www.pornhub.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-01 01:07:33,526 - root - ERROR - Error in Async HTTP Request [GET] https://teddysgirls.net/models/abhay | Cannot connect to host teddysgirls.net:443 ssl:False [Connect call failed ('198.199.71.9', 443)]
+2025-02-01 01:07:34,477 - root - ERROR - Error in Async HTTP Request [GET] https://tw.weibo.com/abhay | Cannot connect to host tw.weibo.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-01 01:07:36,492 - root - ERROR - Error in Async HTTP Request [GET] https://www.imagefap.com/profile/abhay | Cannot connect to host www.imagefap.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:38,829 - root - ERROR - Error in Async HTTP Request [GET] https://www.kwai.com/@abhay | Cannot connect to host www.kwai.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:39,303 - root - ERROR - Error in Async HTTP Request [GET] https://www.game-debate.com/profile/abhay | TimeoutError()
+2025-02-01 01:07:40,806 - root - ERROR - Error in Async HTTP Request [GET] https://climatejustice.rocks/api/v1/accounts/lookup?acct=abhay | Cannot connect to host climatejustice.rocks:443 ssl:False [Connect call failed ('146.255.56.83', 443)]
+2025-02-01 01:07:47,873 - root - ERROR - Error in Async HTTP Request [GET] https://rutracker.org/forum/profile.php?mode=viewprofile&u=abhay | Cannot connect to host rutracker.org:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:50,611 - root - ERROR - Error in Async HTTP Request [GET] https://stripchat.com/api/front/users/checkUsername?username=abhay | Cannot connect to host stripchat.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:50,673 - root - ERROR - Error in Async HTTP Request [GET] https://sukebei.nyaa.si/user/abhay | Cannot connect to host sukebei.nyaa.si:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:51,934 - root - ERROR - Error in Async HTTP Request [GET] https://www.tiktok.com/oembed?url=https://www.tiktok.com/@abhay | Cannot connect to host www.tiktok.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:56,227 - root - ERROR - Error in Async HTTP Request [GET] https://xhamster.com/users/abhay | Cannot connect to host xhamster.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:56,331 - root - ERROR - Error in Async HTTP Request [GET] https://quizlet.com/webapi/3.2/users/check-username?username=abhay | TimeoutError()
+2025-02-01 01:07:56,355 - root - ERROR - Error in Async HTTP Request [GET] https://www.xnxx.com/mobile/profile/abhay | Cannot connect to host www.xnxx.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:56,412 - root - ERROR - Error in Async HTTP Request [GET] https://www.xvideos.com/profiles/abhay | Cannot connect to host www.xvideos.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-01 01:07:56,413 - root - ERROR - Error in Async HTTP Request [GET] https://www.xvideos.com/models/abhay | Cannot connect to host www.xvideos.com:443 ssl:False [Connect call failed ('13.127.247.216', 443)]
+2025-02-15 10:33:24,421 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-02-15 10:33:24,831 - urllib3.connectionpool - DEBUG - https://raw.githubusercontent.com:443 "GET /WebBreacher/WhatsMyName/main/wmn-data.json HTTP/1.1" 200 42366
+2025-02-15 10:33:24,874 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-02-15 10:33:25,083 - urllib3.connectionpool - DEBUG - https://raw.githubusercontent.com:443 "GET /WebBreacher/WhatsMyName/main/wmn-data.json HTTP/1.1" 200 42366
+2025-02-15 10:33:25,202 - asyncio - DEBUG - Using selector: SelectSelector
+2025-02-15 10:33:27,610 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-02-15 10:33:27,860 - urllib3.connectionpool - DEBUG - https://raw.githubusercontent.com:443 "GET /WebBreacher/WhatsMyName/main/wmn-data.json HTTP/1.1" 200 42366
+2025-02-15 10:33:27,922 - asyncio - DEBUG - Using selector: SelectSelector
+2025-02-15 10:33:28,316 - root - ERROR - Error in Async HTTP Request [GET] https://www.adultism.com/profile/Vinay | Cannot connect to host www.adultism.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-15 10:39:04,815 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-02-15 10:39:05,347 - urllib3.connectionpool - DEBUG - https://raw.githubusercontent.com:443 "GET /WebBreacher/WhatsMyName/main/wmn-data.json HTTP/1.1" 200 42366
+2025-02-15 10:39:05,425 - asyncio - DEBUG - Using selector: SelectSelector
+2025-02-15 10:39:13,288 - root - ERROR - Error in Async HTTP Request [GET] https://www.eporner.com/profile/vinay/ | Cannot connect to host www.eporner.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-15 10:39:15,607 - root - ERROR - Error in Async HTTP Request [GET] https://friendfinder.com/profile/vinay | Cannot connect to host friendfinder.com:443 ssl:False [[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1000)]
+2025-02-15 10:39:20,901 - root - ERROR - Error in Async HTTP Request [GET] https://www.imagefap.com/profile/vinay | Cannot connect to host www.imagefap.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-15 10:39:24,101 - root - ERROR - Error in Async HTTP Request [GET] https://www.kwai.com/@vinay | Cannot connect to host www.kwai.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-15 10:39:26,542 - root - ERROR - Error in Async HTTP Request [GET] https://adultforum.gr/vinay-glamour-escorts/ | Cannot connect to host adultforum.gr:443 ssl:False [Connect call failed ('141.94.99.71', 443)]
+2025-02-15 10:39:26,683 - root - ERROR - Error in Async HTTP Request [GET] https://www.alik.cz/u/vinay | Cannot connect to host www.alik.cz:443 ssl:False [Connect call failed ('80.211.196.144', 443)]
+2025-02-15 10:39:29,023 - root - ERROR - Error in Async HTTP Request [GET] https://www.muyzorras.com/usuarios/vinay | Cannot connect to host www.muyzorras.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-15 10:39:29,109 - root - ERROR - Error in Async HTTP Request [GET] https://climatejustice.rocks/api/v1/accounts/lookup?acct=vinay | Cannot connect to host climatejustice.rocks:443 ssl:False [Connect call failed ('146.255.56.83', 443)]
+2025-02-15 10:39:30,160 - root - ERROR - Error in Async HTTP Request [GET] https://ok.ru/vinay | Cannot connect to host ok.ru:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-15 10:39:31,012 - root - ERROR - Error in Async HTTP Request [GET] https://curiouscat.live/api/v2.1/profile?username=vinay | Cannot connect to host curiouscat.live:443 ssl:False [Connect call failed ('34.233.171.249', 443)]
+2025-02-15 10:39:32,786 - root - ERROR - Error in Async HTTP Request [GET] https://www.pornhub.com/users/vinay | Cannot connect to host www.pornhub.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-15 10:39:32,792 - root - ERROR - Error in Async HTTP Request [GET] https://www.pornhub.com/pornstar/vinay | Cannot connect to host www.pornhub.com:443 ssl:False [An existing connection was forcibly closed by the remote host]
+2025-02-15 10:39:32,857 - root - ERROR - Error in Async HTTP Request [GET] https://drum.io/vinay/ | Cannot connect to host drum.io:443 ssl:False [Connect call failed ('54.157.244.15', 443)]

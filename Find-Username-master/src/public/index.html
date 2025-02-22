@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Find My Username</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+      h1 {
+        color: #333;
+      }
+      input {
+        padding: 10px;
+        font-size: 16px;
+        width: 300px;
+        margin-right: 10px;
+      }
+      button {
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #0056b3;
+      }
+      #results {
+        margin-top: 20px;
+      }
+      .result {
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+      }
+      .error {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Find My Username</h1>
+    <input type="text" id="username" placeholder="Enter username" />
+    <button onclick="findUsername()">Search</button>
+
+    <div id="results"></div>
+
+    <script>
+      async function findUsername() {
+        const username = document.getElementById("username").value;
+        if (!username) {
+          alert("Please enter a username");
+          return;
+        }
+        const resultsDiv = document.getElementById("results");
+        resultsDiv.innerHTML = "<p>Searching...</p>";
+
+        try {
+          // console.log(username)
+          // const response = await fetch(`http://localhost:5000/username/domain?username=${username}`);
+          const response = await fetch(`http://localhost:5000/username/domain/${username}`, {
+            method: "POST", // Ensure your backend supports POST
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({ username: "Dharmesh" }), // Sending body
+          });
+          const results = await response.json();
+
+          if (results.error) {
+            resultsDiv.innerHTML = `<p class="error">Error: ${results.error}</p>`;
+            return;
+          }
+
+          let output = "";
+          results.forEach((result) => {
+            if (result.output) {
+              output += `<div class="result">
+                        <strong>${result.script}:</strong> ${result.output.join(", ")}
+                      </div>`;
+            } else if (result.error) {
+              output += `<div class="result error">
+                        <strong>${result.script}:</strong> ${result.error}
+                      </div>`;
+            }
+          });
+
+          resultsDiv.innerHTML = output;
+        } catch (error) {
+          resultsDiv.innerHTML = `<p class="error">Error: ${error.message}</p>`;
+        }
+      }
+    </script>
+  </body>
+</html>
